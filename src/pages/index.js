@@ -1,7 +1,7 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import { Inter } from '@next/font/google'
-import styles from '@/styles/Home.module.css'
+import Head from 'next/head' ///aaaaa
+import Image from 'next/image' ////bbbb
+import { Inter } from '@next/font/google' ///cccc
+import styles from '@/styles/Home.module.css' ///ddddd
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -30,7 +30,7 @@ export default function Home() {
 
         <div>
           <h5 className={inter.className}>
-            [Nama] | [NIU]
+            [Raden Muhammad Banendra Bagaskara] | [460560]
           </h5>
         </div>
       </main>
